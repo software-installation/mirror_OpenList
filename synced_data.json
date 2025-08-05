@@ -2,39 +2,39 @@
   "releases": {
     "226682770": {
       "tag_name": "v4.0.0",
-      "fully_synced_at": "2025-08-03 06:54:51.568982"
+      "fully_synced_at": "2025-08-05 07:01:41.845772"
     },
     "226881634": {
       "tag_name": "v4.0.1",
-      "fully_synced_at": "2025-08-03 06:54:55.175266"
+      "fully_synced_at": "2025-08-05 07:01:44.758327"
     },
     "227008394": {
       "tag_name": "v4.0.2",
-      "fully_synced_at": "2025-08-03 06:54:58.670561"
+      "fully_synced_at": "2025-08-05 07:01:47.484515"
     },
     "227537158": {
       "tag_name": "v4.0.3",
-      "fully_synced_at": "2025-08-03 06:55:02.326691"
+      "fully_synced_at": "2025-08-05 07:01:50.512468"
     },
     "228291794": {
       "tag_name": "v4.0.4",
-      "fully_synced_at": "2025-08-03 06:55:05.982699"
+      "fully_synced_at": "2025-08-05 07:01:53.464118"
     },
     "228609080": {
       "tag_name": "v4.0.5",
-      "fully_synced_at": "2025-08-03 06:55:12.726619"
+      "fully_synced_at": "2025-08-05 07:01:58.920504"
     },
     "229396346": {
       "tag_name": "v4.0.7",
-      "fully_synced_at": "2025-08-03 06:55:19.259732"
+      "fully_synced_at": "2025-08-05 07:02:04.156313"
     },
     "230013752": {
       "tag_name": "v4.0.8",
-      "fully_synced_at": "2025-08-03 06:55:25.830980"
+      "fully_synced_at": "2025-08-05 07:02:09.786827"
     },
     "224774569": {
       "tag_name": "beta",
-      "fully_synced_at": "2025-08-03 07:01:16.150635"
+      "fully_synced_at": "2025-08-05 07:06:15.899206"
     },
     "234905322": {
       "tag_name": "v4.0.9",
@@ -42,11 +42,11 @@
     },
     "235193373": {
       "tag_name": "v4.0.9",
-      "fully_synced_at": "2025-08-03 06:55:32.299784"
+      "fully_synced_at": "2025-08-05 07:02:15.136343"
     },
     "236507484": {
       "tag_name": "v4.1.0",
-      "fully_synced_at": "2025-08-03 06:55:38.803005"
+      "fully_synced_at": "2025-08-05 07:02:20.518453"
     }
   },
   "assets": {
@@ -3442,32 +3442,32 @@
       "md5-android.txt_312": {
         "name": "md5-android.txt",
         "size": 312,
-        "updated_at": "2025-08-03T06:55:48+00:00",
-        "synced_at": "2025-08-03 06:55:48.773502"
+        "updated_at": "2025-08-05T07:02:29+00:00",
+        "synced_at": "2025-08-05 07:02:29.365141"
       },
       "md5-freebsd.txt_248": {
         "name": "md5-freebsd.txt",
         "size": 248,
-        "updated_at": "2025-08-03T06:55:51+00:00",
-        "synced_at": "2025-08-03 06:55:51.480996"
+        "updated_at": "2025-08-05T07:02:32+00:00",
+        "synced_at": "2025-08-05 07:02:32.123704"
       },
       "md5-linux-musl-arm.txt_944": {
         "name": "md5-linux-musl-arm.txt",
         "size": 944,
-        "updated_at": "2025-08-03T06:55:54+00:00",
-        "synced_at": "2025-08-03 06:55:54.368704"
+        "updated_at": "2025-08-05T07:02:34+00:00",
+        "synced_at": "2025-08-05 07:02:34.795458"
       },
       "md5-linux-musl.txt_753": {
         "name": "md5-linux-musl.txt",
         "size": 753,
-        "updated_at": "2025-08-03T06:55:56+00:00",
-        "synced_at": "2025-08-03 06:55:57.134349"
+        "updated_at": "2025-08-05T07:02:37+00:00",
+        "synced_at": "2025-08-05 07:02:37.432322"
       },
       "md5-windows-arm64.txt_121": {
         "name": "md5-windows-arm64.txt",
         "size": 121,
-        "updated_at": "2025-08-03T06:55:59+00:00",
-        "synced_at": "2025-08-03 06:55:59.973073"
+        "updated_at": "2025-08-05T07:02:39+00:00",
+        "synced_at": "2025-08-05 07:02:40.031838"
       },
       "md5.txt_1136": {
         "name": "md5.txt",
@@ -4048,8 +4048,8 @@
       "md5.txt_1275": {
         "name": "md5.txt",
         "size": 1275,
-        "updated_at": "2025-08-03T06:56:05+00:00",
-        "synced_at": "2025-08-03 06:56:05.492190"
+        "updated_at": "2025-08-05T07:02:45+00:00",
+        "synced_at": "2025-08-05 07:02:45.284926"
       },
       "openlist-android-386.tar.gz_46485661": {
         "name": "openlist-android-386.tar.gz",
@@ -4654,8 +4654,8 @@
       "md5-windows7.txt_179": {
         "name": "md5-windows7.txt",
         "size": 179,
-        "updated_at": "2025-08-03T06:56:02+00:00",
-        "synced_at": "2025-08-03 06:56:02.758197"
+        "updated_at": "2025-08-05T07:02:42+00:00",
+        "synced_at": "2025-08-05 07:02:42.733816"
       },
       "openlist-android-386.tar.gz_46628221": {
         "name": "openlist-android-386.tar.gz",
@@ -6210,6 +6210,318 @@
         "size": 45108756,
         "updated_at": "2025-08-03T07:01:15+00:00",
         "synced_at": "2025-08-03 07:01:16.132184"
+      },
+      "CHANGELOG.md_1701": {
+        "name": "CHANGELOG.md",
+        "size": 1701,
+        "updated_at": "2025-08-05T07:02:26+00:00",
+        "synced_at": "2025-08-05 07:02:26.666157"
+      },
+      "openlist-android-386.tar.gz_46518506": {
+        "name": "openlist-android-386.tar.gz",
+        "size": 46518506,
+        "updated_at": "2025-08-05T07:02:48+00:00",
+        "synced_at": "2025-08-05 07:02:48.963753"
+      },
+      "openlist-android-amd64.tar.gz_45340362": {
+        "name": "openlist-android-amd64.tar.gz",
+        "size": 45340362,
+        "updated_at": "2025-08-05T07:02:52+00:00",
+        "synced_at": "2025-08-05 07:02:53.085720"
+      },
+      "openlist-android-arm.tar.gz_44735565": {
+        "name": "openlist-android-arm.tar.gz",
+        "size": 44735565,
+        "updated_at": "2025-08-05T07:02:57+00:00",
+        "synced_at": "2025-08-05 07:02:57.156104"
+      },
+      "openlist-android-arm64.tar.gz_43655776": {
+        "name": "openlist-android-arm64.tar.gz",
+        "size": 43655776,
+        "updated_at": "2025-08-05T07:03:00+00:00",
+        "synced_at": "2025-08-05 07:03:01.098994"
+      },
+      "openlist-darwin-amd64.tar.gz_44758367": {
+        "name": "openlist-darwin-amd64.tar.gz",
+        "size": 44758367,
+        "updated_at": "2025-08-05T07:03:04+00:00",
+        "synced_at": "2025-08-05 07:03:04.710523"
+      },
+      "openlist-darwin-arm64.tar.gz_43484161": {
+        "name": "openlist-darwin-arm64.tar.gz",
+        "size": 43484161,
+        "updated_at": "2025-08-05T07:03:08+00:00",
+        "synced_at": "2025-08-05 07:03:08.860825"
+      },
+      "openlist-freebsd-386.tar.gz_43254539": {
+        "name": "openlist-freebsd-386.tar.gz",
+        "size": 43254539,
+        "updated_at": "2025-08-05T07:03:13+00:00",
+        "synced_at": "2025-08-05 07:03:13.268329"
+      },
+      "openlist-freebsd-amd64.tar.gz_44630976": {
+        "name": "openlist-freebsd-amd64.tar.gz",
+        "size": 44630976,
+        "updated_at": "2025-08-05T07:03:17+00:00",
+        "synced_at": "2025-08-05 07:03:17.336421"
+      },
+      "openlist-freebsd-arm64.tar.gz_42474007": {
+        "name": "openlist-freebsd-arm64.tar.gz",
+        "size": 42474007,
+        "updated_at": "2025-08-05T07:03:21+00:00",
+        "synced_at": "2025-08-05 07:03:21.484570"
+      },
+      "openlist-linux-386.tar.gz_43257427": {
+        "name": "openlist-linux-386.tar.gz",
+        "size": 43257427,
+        "updated_at": "2025-08-05T07:03:24+00:00",
+        "synced_at": "2025-08-05 07:03:25.102923"
+      },
+      "openlist-linux-amd64.tar.gz_44503135": {
+        "name": "openlist-linux-amd64.tar.gz",
+        "size": 44503135,
+        "updated_at": "2025-08-05T07:03:28+00:00",
+        "synced_at": "2025-08-05 07:03:28.996891"
+      },
+      "openlist-linux-arm-5.tar.gz_43204566": {
+        "name": "openlist-linux-arm-5.tar.gz",
+        "size": 43204566,
+        "updated_at": "2025-08-05T07:03:32+00:00",
+        "synced_at": "2025-08-05 07:03:32.778606"
+      },
+      "openlist-linux-arm-6.tar.gz_43153135": {
+        "name": "openlist-linux-arm-6.tar.gz",
+        "size": 43153135,
+        "updated_at": "2025-08-05T07:03:36+00:00",
+        "synced_at": "2025-08-05 07:03:36.909401"
+      },
+      "openlist-linux-arm-7.tar.gz_43118916": {
+        "name": "openlist-linux-arm-7.tar.gz",
+        "size": 43118916,
+        "updated_at": "2025-08-05T07:03:40+00:00",
+        "synced_at": "2025-08-05 07:03:40.768663"
+      },
+      "openlist-linux-arm64.tar.gz_42391685": {
+        "name": "openlist-linux-arm64.tar.gz",
+        "size": 42391685,
+        "updated_at": "2025-08-05T07:03:44+00:00",
+        "synced_at": "2025-08-05 07:03:44.839727"
+      },
+      "openlist-linux-loong64-abi1.0.tar.gz_43691349": {
+        "name": "openlist-linux-loong64-abi1.0.tar.gz",
+        "size": 43691349,
+        "updated_at": "2025-08-05T07:03:48+00:00",
+        "synced_at": "2025-08-05 07:03:49.059955"
+      },
+      "openlist-linux-loong64.tar.gz_42978162": {
+        "name": "openlist-linux-loong64.tar.gz",
+        "size": 42978162,
+        "updated_at": "2025-08-05T07:03:52+00:00",
+        "synced_at": "2025-08-05 07:03:53.134089"
+      },
+      "openlist-linux-mips.tar.gz_41959865": {
+        "name": "openlist-linux-mips.tar.gz",
+        "size": 41959865,
+        "updated_at": "2025-08-05T07:03:56+00:00",
+        "synced_at": "2025-08-05 07:03:56.734874"
+      },
+      "openlist-linux-mips64.tar.gz_41564122": {
+        "name": "openlist-linux-mips64.tar.gz",
+        "size": 41564122,
+        "updated_at": "2025-08-05T07:04:00+00:00",
+        "synced_at": "2025-08-05 07:04:00.666041"
+      },
+      "openlist-linux-mips64le.tar.gz_41069204": {
+        "name": "openlist-linux-mips64le.tar.gz",
+        "size": 41069204,
+        "updated_at": "2025-08-05T07:04:04+00:00",
+        "synced_at": "2025-08-05 07:04:04.580163"
+      },
+      "openlist-linux-mipsle.tar.gz_41539516": {
+        "name": "openlist-linux-mipsle.tar.gz",
+        "size": 41539516,
+        "updated_at": "2025-08-05T07:04:08+00:00",
+        "synced_at": "2025-08-05 07:04:08.594413"
+      },
+      "openlist-linux-musl-386.tar.gz_43324053": {
+        "name": "openlist-linux-musl-386.tar.gz",
+        "size": 43324053,
+        "updated_at": "2025-08-05T07:04:12+00:00",
+        "synced_at": "2025-08-05 07:04:12.574353"
+      },
+      "openlist-linux-musl-amd64.tar.gz_44568451": {
+        "name": "openlist-linux-musl-amd64.tar.gz",
+        "size": 44568451,
+        "updated_at": "2025-08-05T07:04:16+00:00",
+        "synced_at": "2025-08-05 07:04:16.658647"
+      },
+      "openlist-linux-musl-arm64.tar.gz_42457816": {
+        "name": "openlist-linux-musl-arm64.tar.gz",
+        "size": 42457816,
+        "updated_at": "2025-08-05T07:04:20+00:00",
+        "synced_at": "2025-08-05 07:04:20.843084"
+      },
+      "openlist-linux-musl-loong64.tar.gz_43058999": {
+        "name": "openlist-linux-musl-loong64.tar.gz",
+        "size": 43058999,
+        "updated_at": "2025-08-05T07:04:24+00:00",
+        "synced_at": "2025-08-05 07:04:25.017350"
+      },
+      "openlist-linux-musl-mips.tar.gz_42058044": {
+        "name": "openlist-linux-musl-mips.tar.gz",
+        "size": 42058044,
+        "updated_at": "2025-08-05T07:04:28+00:00",
+        "synced_at": "2025-08-05 07:04:29.025333"
+      },
+      "openlist-linux-musl-mips64.tar.gz_41657611": {
+        "name": "openlist-linux-musl-mips64.tar.gz",
+        "size": 41657611,
+        "updated_at": "2025-08-05T07:04:33+00:00",
+        "synced_at": "2025-08-05 07:04:33.250159"
+      },
+      "openlist-linux-musl-mips64le.tar.gz_41166930": {
+        "name": "openlist-linux-musl-mips64le.tar.gz",
+        "size": 41166930,
+        "updated_at": "2025-08-05T07:04:37+00:00",
+        "synced_at": "2025-08-05 07:04:37.386991"
+      },
+      "openlist-linux-musl-mipsle.tar.gz_41636128": {
+        "name": "openlist-linux-musl-mipsle.tar.gz",
+        "size": 41636128,
+        "updated_at": "2025-08-05T07:04:41+00:00",
+        "synced_at": "2025-08-05 07:04:41.366830"
+      },
+      "openlist-linux-musl-ppc64le.tar.gz_42432970": {
+        "name": "openlist-linux-musl-ppc64le.tar.gz",
+        "size": 42432970,
+        "updated_at": "2025-08-05T07:04:45+00:00",
+        "synced_at": "2025-08-05 07:04:45.540381"
+      },
+      "openlist-linux-musl-riscv64.tar.gz_43242942": {
+        "name": "openlist-linux-musl-riscv64.tar.gz",
+        "size": 43242942,
+        "updated_at": "2025-08-05T07:04:49+00:00",
+        "synced_at": "2025-08-05 07:04:49.556602"
+      },
+      "openlist-linux-musl-s390x.tar.gz_44211462": {
+        "name": "openlist-linux-musl-s390x.tar.gz",
+        "size": 44211462,
+        "updated_at": "2025-08-05T07:04:53+00:00",
+        "synced_at": "2025-08-05 07:04:53.871563"
+      },
+      "openlist-linux-musleabi-arm.tar.gz_43246948": {
+        "name": "openlist-linux-musleabi-arm.tar.gz",
+        "size": 43246948,
+        "updated_at": "2025-08-05T07:04:58+00:00",
+        "synced_at": "2025-08-05 07:04:58.264125"
+      },
+      "openlist-linux-musleabi-armel.tar.gz_43246824": {
+        "name": "openlist-linux-musleabi-armel.tar.gz",
+        "size": 43246824,
+        "updated_at": "2025-08-05T07:05:02+00:00",
+        "synced_at": "2025-08-05 07:05:02.821082"
+      },
+      "openlist-linux-musleabi-armv5l.tar.gz_43318624": {
+        "name": "openlist-linux-musleabi-armv5l.tar.gz",
+        "size": 43318624,
+        "updated_at": "2025-08-05T07:05:06+00:00",
+        "synced_at": "2025-08-05 07:05:07.018630"
+      },
+      "openlist-linux-musleabi-armv6.tar.gz_43268238": {
+        "name": "openlist-linux-musleabi-armv6.tar.gz",
+        "size": 43268238,
+        "updated_at": "2025-08-05T07:05:11+00:00",
+        "synced_at": "2025-08-05 07:05:11.489607"
+      },
+      "openlist-linux-musleabi-armv7m.tar.gz_43246947": {
+        "name": "openlist-linux-musleabi-armv7m.tar.gz",
+        "size": 43246947,
+        "updated_at": "2025-08-05T07:05:15+00:00",
+        "synced_at": "2025-08-05 07:05:15.914634"
+      },
+      "openlist-linux-musleabihf-arm.tar.gz_43244028": {
+        "name": "openlist-linux-musleabihf-arm.tar.gz",
+        "size": 43244028,
+        "updated_at": "2025-08-05T07:05:20+00:00",
+        "synced_at": "2025-08-05 07:05:20.429527"
+      },
+      "openlist-linux-musleabihf-armel.tar.gz_43243464": {
+        "name": "openlist-linux-musleabihf-armel.tar.gz",
+        "size": 43243464,
+        "updated_at": "2025-08-05T07:05:24+00:00",
+        "synced_at": "2025-08-05 07:05:24.917612"
+      },
+      "openlist-linux-musleabihf-armv5l.tar.gz_43315186": {
+        "name": "openlist-linux-musleabihf-armv5l.tar.gz",
+        "size": 43315186,
+        "updated_at": "2025-08-05T07:05:29+00:00",
+        "synced_at": "2025-08-05 07:05:29.184035"
+      },
+      "openlist-linux-musleabihf-armv6.tar.gz_43269788": {
+        "name": "openlist-linux-musleabihf-armv6.tar.gz",
+        "size": 43269788,
+        "updated_at": "2025-08-05T07:05:33+00:00",
+        "synced_at": "2025-08-05 07:05:33.133126"
+      },
+      "openlist-linux-musleabihf-armv7l.tar.gz_43243838": {
+        "name": "openlist-linux-musleabihf-armv7l.tar.gz",
+        "size": 43243838,
+        "updated_at": "2025-08-05T07:05:37+00:00",
+        "synced_at": "2025-08-05 07:05:37.572159"
+      },
+      "openlist-linux-musleabihf-armv7r.tar.gz_43243836": {
+        "name": "openlist-linux-musleabihf-armv7r.tar.gz",
+        "size": 43243836,
+        "updated_at": "2025-08-05T07:05:42+00:00",
+        "synced_at": "2025-08-05 07:05:42.404249"
+      },
+      "openlist-linux-ppc64le.tar.gz_42315348": {
+        "name": "openlist-linux-ppc64le.tar.gz",
+        "size": 42315348,
+        "updated_at": "2025-08-05T07:05:46+00:00",
+        "synced_at": "2025-08-05 07:05:46.866120"
+      },
+      "openlist-linux-riscv64.tar.gz_43176901": {
+        "name": "openlist-linux-riscv64.tar.gz",
+        "size": 43176901,
+        "updated_at": "2025-08-05T07:05:50+00:00",
+        "synced_at": "2025-08-05 07:05:51.088449"
+      },
+      "openlist-linux-s390x.tar.gz_44153716": {
+        "name": "openlist-linux-s390x.tar.gz",
+        "size": 44153716,
+        "updated_at": "2025-08-05T07:05:54+00:00",
+        "synced_at": "2025-08-05 07:05:54.764934"
+      },
+      "openlist-windows-386.zip_43894439": {
+        "name": "openlist-windows-386.zip",
+        "size": 43894439,
+        "updated_at": "2025-08-05T07:05:58+00:00",
+        "synced_at": "2025-08-05 07:05:58.538162"
+      },
+      "openlist-windows-amd64.zip_44820492": {
+        "name": "openlist-windows-amd64.zip",
+        "size": 44820492,
+        "updated_at": "2025-08-05T07:06:02+00:00",
+        "synced_at": "2025-08-05 07:06:03.005589"
+      },
+      "openlist-windows-arm64.zip_42618577": {
+        "name": "openlist-windows-arm64.zip",
+        "size": 42618577,
+        "updated_at": "2025-08-05T07:06:06+00:00",
+        "synced_at": "2025-08-05 07:06:07.093585"
+      },
+      "openlist-windows7-386.zip_44219888": {
+        "name": "openlist-windows7-386.zip",
+        "size": 44219888,
+        "updated_at": "2025-08-05T07:06:11+00:00",
+        "synced_at": "2025-08-05 07:06:11.504244"
+      },
+      "openlist-windows7-amd64.zip_45106149": {
+        "name": "openlist-windows7-amd64.zip",
+        "size": 45106149,
+        "updated_at": "2025-08-05T07:06:15+00:00",
+        "synced_at": "2025-08-05 07:06:15.880400"
       }
     },
     "234905322": {
